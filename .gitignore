@@ -3,5 +3,4 @@
 *.zip
 *.exe
 *.7z
-keep everything in pcap out of the repo except for its placeholder!
 !pcap/.gitkeep
